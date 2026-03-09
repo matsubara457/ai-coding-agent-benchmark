@@ -1,0 +1,11 @@
+{
+  "language": "ruby",
+  "run": 1,
+  "build_success": false,
+  "server_start_success": true,
+  "test_pass": 7,
+  "test_fail": 0,
+  "test_total": 7,
+  "all_tests_passed": true,
+  "notes": "Sinatra + sqlite3. Build FAILED initially - missing rackup gem (Sinatra 4.x breaking change). After manual fix, all tests passed. Counted as build failure."
+}
